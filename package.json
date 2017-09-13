@@ -1,0 +1,23 @@
+{
+  "name": "linechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentCheng0113/line-auto.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VincentCheng0113/line-auto/issues"
+  },
+  "homepage": "https://github.com/VincentCheng0113/line-auto#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "linebot": "^1.3.0"
+  }
+}
